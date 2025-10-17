@@ -74,3 +74,6 @@ by-flask-starter/
 
 ## 📝 License
 Released under the **MIT License** © 2025 Bogdan Yatsenko.
+
+📦 About the migration
+This repository was migrated as part of my Portfolio Refresh. Originally developed locally; during migration I added README, .env.example, Docker/CI, and minor improvements.
